@@ -1,9 +1,20 @@
 ---
 title: Contact
-author: Tao He
+author: Sasakura Ayato (@ayato_sasakura)
 date: 2022-02-05
 category: Jekyll
 layout: post
 ---
 
-This is an contact page.
+# Social Networking Services
+
+|  Service  |  Account  |  Note  |
+| --- | --- | --- |
+|  Twitter  |  [@ayaya_sasa][twitter]  |    |
+|  Gmail  |  [Mail](mailto:sasakura.ayato.syosetu@gmail.com) |    |
+|  Discord  |  しゃ#2639  |    |
+|  SSH  |  [SSH 公開鍵](/pages/ssh/)  |    |
+
+
+[twitter]: https://twitter.com/ayaya_sasa
+[mail]: (mailto:sasakura.ayato.syosetu@gmail.com)

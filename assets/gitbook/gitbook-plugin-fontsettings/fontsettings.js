@@ -1,6 +1,6 @@
 require(['gitbook', 'jquery'], function(gitbook, $) {
     // Configuration
-    var MAX_SIZE       = 4,
+    var MAX_SIZE       = 5,
         MIN_SIZE       = 0,
         BUTTON_ID;
 
@@ -30,12 +30,12 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
     var FAMILIES = [
         {
             config: 'serif',
-            text: 'Serif',
+            text: '明朝',
             id: 0
         },
         {
             config: 'sans',
-            text: 'Sans',
+            text: 'ゴシック',
             id: 1
         }
     ];

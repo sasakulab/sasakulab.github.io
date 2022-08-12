@@ -145,10 +145,10 @@
 /* Custom font settings */
 
 .book.font-family-0 {
-    font-family: Georgia, serif;
+    font-family: "BIZ UDP明朝", Georgia, serif;
 }
 .book.font-family-1 {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "BIZ UDPゴシック", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 /* Render wide tables */
@@ -265,5 +265,10 @@
     --c-danger-bg: #ffe0e0;
     --c-danger-text: #600;
     --c-danger-title: #c00;
-    --font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    --font-family: "BIZ UDPゴシック", system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+
+sup {
+    font-size: 8px;
 }

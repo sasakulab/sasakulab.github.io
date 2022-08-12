@@ -43,7 +43,7 @@
             }
         },
         "theme": "default",
-        "author": "Tao He",
+        "author": "Sasakura Ayato (@ayato_sasakura)",
         "pdf": {
             "pageNumbers": true,
             "fontSize": 12,

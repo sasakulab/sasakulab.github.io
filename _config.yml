@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Sasakulab
+longtitle:        Sasakulab
+author:           Sasakura ayato
+email:            sasakura.ayato.syosetu@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  My Website.
 
 version:          1.0
-gitbook_version:  3.2.3
+gitbook_version:  1.0.0
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://sasakulab.github.io'
+baseurl:          ''
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
@@ -19,7 +19,7 @@ remote_theme: sighingnow/jekyll-gitbook
 toc:
   enabled: true
   h_min: 1
-  h_max: 3
+  h_max: 2
 
 # markdown render engine.
 markdown:         kramdown
