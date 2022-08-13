@@ -1,11 +1,11 @@
 ---
 layout: home
-title: 　 
+title: 　
 permalink: /
 ---
 
 <center>
   <p style="writing-mode: vertical-rl;">
-  やぁ、やっと会えたね――――
+    よく来たね
   </p>
 </center>
