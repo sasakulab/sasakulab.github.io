@@ -17,7 +17,7 @@ Windows 環境の整備で忘れそうなやつ
 
 Winget を用いて、JSON ファイルを出力します。
 
-```
+```sh
 winget export -o wingetlog_%DATE:/=%.json --include-versions
 ```
 
@@ -25,7 +25,7 @@ winget export -o wingetlog_%DATE:/=%.json --include-versions
 
 JSON ファイルに出力します。
 
-```
+```sh
 winget import -i {import するファイル}.json --ignore-versions --accept-package-agreements --ignore-unavailable
 ```
 
@@ -35,7 +35,7 @@ Winget でインストールしてなくてもアップデートしてくれる�
 
 **事前に管理者権限で Powershell (cmd) に入っておくと UAC を求められない。**
 
-```
+```sh
 winget upgrade --all -h
 ```
 
@@ -62,10 +62,8 @@ pip install -r requirements.txt
 
 ### `pip` で全件アップデート
 
-> #### WARNING
 > 普通やんないほうがいい。普通やらない。
 {: .block-warning}
-
 
 - Windows
 
@@ -73,7 +71,7 @@ pip install -r requirements.txt
 pip list -o --format freeze | % { $_ -replace "=.*", "" } | % { python -m pip install -U &_ }
 ```
 
-- Linux 
+- Linux
 
 ```sh
 pip list -o --format freeze | sed 's/=.*//' | xargs python -m pip install -U
@@ -91,6 +89,4 @@ pip install --upgrade pip
 
 - [winget の JSON ファイル][env_01]
 
-
 [env_01]: https://github.com/sasakulab/env/tree/master/winget
-
