@@ -12,10 +12,17 @@ layout: post
 > 相互リンクer 募集中……。
 {: .block-tip }
 
-## 勝手リンク
+## 相互リンク
 
 > [yude.jp](https://www.yude.jp) (yude さん / [Twitter](https://twitter.com/yude_jp))<br>
 > [<img src="/assets/img/yudejp.png">](https://www.yude.jp)
+
+## 勝手リンク
+
+> ##### Information
+>
+> 勝手リンクer 募集中（？？？）
+{: .block-tip }
 
 ## 便利なリンク
 
