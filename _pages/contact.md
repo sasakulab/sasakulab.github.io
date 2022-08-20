@@ -2,7 +2,6 @@
 title: Contact
 author: Sasakura Ayato (@ayato_sasakura)
 date: 2022-02-05
-category: Jekyll
 layout: post
 ---
 
