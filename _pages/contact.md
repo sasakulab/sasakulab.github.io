@@ -9,7 +9,7 @@ layout: post
 
 |  Service  |  Account  |  Note  |
 | --- | --- | --- |
-|  Twitter  |  [@ayaya_sasa][twitter]  |    |
+|  Twitter  |  [@ayato_sasakura][twitter]  |    |
 |  Gmail  |  [Mail](mailto:sasakura.ayato.syosetu@gmail.com) |    |
 |  Discord  |  しゃ#2639  |    |
 |  SSH  |  [SSH 公開鍵](/pages/ssh/)  |    |
