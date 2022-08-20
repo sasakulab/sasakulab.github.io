@@ -15,5 +15,5 @@ layout: post
 |  SSH  |  [SSH 公開鍵](/pages/ssh/)  |    |
 
 
-[twitter]: https://twitter.com/ayaya_sasa
+[twitter]: https://twitter.com/ayato_sasakura
 [mail]: (mailto:sasakura.ayato.syosetu@gmail.com)
