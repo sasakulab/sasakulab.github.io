@@ -26,7 +26,7 @@ toc:
 
 ## 体温ログ
 
-<img src="assets/img/covid_1.jpg" width="400px">
+<img src="/assets/img/covid_1.jpg" width="400px">
 
 > 平熱は 36.8 ℃。この値は先月一ヶ月の平均値。
 |日付|時刻|体温|備考|
@@ -43,7 +43,7 @@ toc:
 
 ## おくすり
 
-<img src="assets/img/covid_2.jpg" width="400px">
+<img src="/assets/img/covid_2.jpg" width="400px">
 
 - フロモックス錠 100mg(薄赤)
     - 抗生物質。感染症を治療するらしい
