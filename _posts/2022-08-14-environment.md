@@ -1,6 +1,6 @@
 ---
 layout: content
-title: 1. Windows 環境の整備
+title: Windows 環境の整備
 permalink: /memo/env-windows
 layout: post
 toc:
