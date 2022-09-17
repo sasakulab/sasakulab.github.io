@@ -6,6 +6,6 @@ permalink: /
 
 <center>
   <p style="writing-mode: vertical-rl;">
-    よく来たね
+    おめでとう
   </p>
 </center>
