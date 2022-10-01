@@ -1,8 +1,8 @@
 ---
-title: SSH Public Key
+title: SSH 公開鍵
 author: Sasakura Ayato (@ayato_sasakura)
 date: 2022-02-05
-category: Jekyll
+category: Main
 layout: post
 toc: hide
 ---

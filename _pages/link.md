@@ -1,16 +1,12 @@
 ---
-title: link
+title: 相互・勝手リンク
 author: Sasakura Ayato (@ayato_sasakura)
 date: 2022-02-05
+category: Main
 layout: post
 ---
 
 つながる　つながる　まるく　なる　<a style="color: lightgray;">[1]</a>
-
-> ##### Information
->
-> 相互リンクer 募集中……。
-{: .block-tip }
 
 ## 相互リンク
 
@@ -19,10 +15,7 @@ layout: post
 
 ## 勝手リンク
 
-> ##### Information
->
-> 勝手リンクer 募集中（？？？）
-{: .block-tip }
+{今ない}
 
 ## 便利なリンク
 

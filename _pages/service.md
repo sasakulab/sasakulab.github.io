@@ -1,7 +1,8 @@
 ---
-title: service
+title: サービス
 author: Sasakura Ayato (@ayato_sasakura)
 date: 2022-10-01
+category: Main
 layout: post
 ---
 
@@ -32,7 +33,16 @@ layout: post
 - [Brain Wiki](https://brain.fandom.com/ja/wiki/Brain_Wiki)
   - 保守作業を行う "Administrator" 権限を有しています
   - 現在は Watamario15(Twitter ID: @watamario15) 様が主に作業されています
-  - 何かありましたら、Discord サーバー [Brain Hackers](https://brain.fandom.com/ja/wiki/Brain_Wiki) にご連絡をください
+  - 何かありましたら、Discord サーバー [Brain Hackers](https://brain.fandom.com/ja/wiki/Brain_Wiki) にご連絡ください
+
+## Writer
+
+私が一部参加している文書などです
+
+- [Brain Hackers Wiki](https://wiki.brainux.org/)
+  - **一部の**保守作業を行う `CODEOWNERS (GitHub)` 権限を有しています
+  - 一部文書を書いています
+  - 何かありましたら、Discord サーバー [Brain Hackers](https://brain.fandom.com/ja/wiki/Brain_Wiki) にご連絡ください
 
 ## 保有ドメイン
 

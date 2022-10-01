@@ -1,8 +1,8 @@
 ---
-title: Watched!
+title: 好きなコンテンツ
 author: Sasakura Ayato (@ayato_sasakura)
 date: 2022-02-05
-category: Jekyll
+category: Main
 layout: post
 ---
 

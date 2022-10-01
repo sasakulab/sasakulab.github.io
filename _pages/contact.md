@@ -1,7 +1,8 @@
 ---
-title: SNS / Contact
+title: SNS アカウント
 author: Sasakura Ayato (@ayato_sasakura)
 date: 2022-02-05
+category: Main
 layout: post
 ---
 
