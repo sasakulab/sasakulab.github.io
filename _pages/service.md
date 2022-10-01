@@ -13,7 +13,7 @@ layout: post
 
 - [Pleroma](https://pleroma.sasakulab.com/)
   - いわゆる「お一人様インスタンス」です
-  - ActivityPub (Mastodon, Pleroma, Misskey) などをご利用の方はフォローしてください
+  - ActivityPub (Mastodon, Pleroma, Misskey) などをご利用の方はフォローしてくださると嬉しいです
 
 - [にじインフォ（配信情報ボット）](https://twitter.com/infobot_2434)
   - これからはじまるにじさんじの配信を紹介します（30分毎）
@@ -33,3 +33,9 @@ layout: post
   - 保守作業を行う "Administrator" 権限を有しています
   - 現在は Watamario15(Twitter ID: @watamario15) 様が主に作業されています
   - 何かありましたら、Discord サーバー [Brain Hackers](https://brain.fandom.com/ja/wiki/Brain_Wiki) にご連絡をください
+
+## 保有ドメイン
+
+sasakulab.com は、佐桜彩斗がドメインを保有しています。
+
+sasakulab.com の DNS サーバーや一部ページは、Cloudflare のサービスを利用しています。
